@@ -3,6 +3,13 @@ import java.util.*;
 class CurrencyRegistry {
     private final Map<String, Double> rates = new LinkedHashMap<>();
     private final Map<String, String> names = new LinkedHashMap<>();
+public class GlobalCurrencyConverter {
+    public static void main(String[] args) {
+        
+        System.out.println("Hello guys");
+        
+    }
+}
 
     public CurrencyRegistry() {
         addCurrency("USD", "US Dollar",                 1.0000);
