@@ -8,6 +8,7 @@ public class GlobalCurrencyConverter {
         
         System.out.println("Hello guys"); 
          System.out.println("welcome"); 
+         System.out.println("Easy to calculate"); 
         
         
     }
